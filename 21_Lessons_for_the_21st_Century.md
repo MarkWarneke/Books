@@ -1,7 +1,11 @@
 # 21 Lessons for the 21st Century
+[Home](readme.md)
 
-- [Home](readme.md)
+Influenced by Bill Gates notes [Best Books 2018](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2018) I bought the book.
+Interested by the sucessor "Sapiens - A Brief History of Humandkind" I was very interested in getting my hands onto the latest book by Yuval.
+The book strikes again with Yuvals amazing way of explaining the past while pointing out current challanges and giving a notion of the future.
 
+## Meta
 
 - Author: Yuval Noah Harari
 - ISBN: 9781787330870
