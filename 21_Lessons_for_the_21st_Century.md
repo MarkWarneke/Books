@@ -64,5 +64,6 @@ The book strikes again with Yuvals amazing way of explaining the past while poin
 
 ## Links
 
-- [Amazon](https://www.amazon.de/gp/product/1787330877/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1787330877&linkCode=as2&tag=markwarneke-21&linkId=94b5d3fcd5d3c68c391bda7e39d1b86b)
+- [Amazon: 21 Lessons for the 21st Century](https://www.amazon.de/gp/product/1787330877/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1787330877&linkCode=as2&tag=markwarneke-21&linkId=94b5d3fcd5d3c68c391bda7e39d1b86b)
+- [Amazon: Sapiens: A Brief History of Humankind](https://www.amazon.de/gp/product/0099590085/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0099590085&linkCode=as2&tag=markwarneke-21&linkId=0d3d3c895c0aa46341aac76c100d83ea)
 - [Home](Readme.md)
