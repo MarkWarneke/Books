@@ -2,7 +2,8 @@
 [Home](Readme.md)
 
 
-<a target="_blank"  href="https://www.amazon.de/gp/product/1787330877/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1787330877&linkCode=as2&tag=markwarneke-21&linkId=933ea284b9cb8fec5e8050e8ecba7f64"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=DE&ASIN=1787330877&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=markwarneke-21" ></a><img src="//ir-de.amazon-adsystem.com/e/ir?t=markwarneke-21&l=am2&o=3&a=1787330877" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<div style="text-align:center"><a target="_blank"  href="https://www.amazon.de/gp/product/1787330877/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1787330877&linkCode=as2&tag=markwarneke-21&linkId=933ea284b9cb8fec5e8050e8ecba7f64"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=DE&ASIN=1787330877&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=markwarneke-21" ></a><img
+src="//ir-de.amazon-adsystem.com/e/ir?t=markwarneke-21&l=am2&o=3&a=1787330877" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></div>
 
 Influenced by Bill Gates notes [Best Books 2018](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2018) I bought the book.
 Interested by the sucessor "Sapiens - A Brief History of Humandkind" I was very interested in getting my hands onto the latest book by Yuval.
