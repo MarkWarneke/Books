@@ -60,7 +60,11 @@ The book strikes again with Yuvals amazing way of explaining the past while poin
 
 ## Opinion
 
-## Sources
+- An interesting book focusing on the recent challanges of the century
+- The book touches controversial and senstive topics keeping
+- Very reflective and entertaining way of explaining
+- A good read to get thinking and to have a deep and influential conversation
+- 21 topics that challanges to think and dive into
 
 ## Links
 
