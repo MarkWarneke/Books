@@ -1,5 +1,5 @@
 # 21 Lessons for the 21st Century
-[Home](readme.md)
+[Home](Readme.md)
 
 Influenced by Bill Gates notes [Best Books 2018](https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2018) I bought the book.
 Interested by the sucessor "Sapiens - A Brief History of Humandkind" I was very interested in getting my hands onto the latest book by Yuval.
