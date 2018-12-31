@@ -15,34 +15,37 @@ The book strikes again with Yuvals amazing way of explaining the past while poin
 
 ## Table of content
 
-1) The Technological Challange
-  - Disillusionment
-  - Work
-  - Libertz
-  - Equalitiy
-2) The Polical Challange
-  - Community
-  - Civilisation
-  - Natrionalism
-  - Relegion
-  - Immigration
-3) Despair and Hope
-  - Terrorism
-  - War
-  - Humility
-  - God
-  - Secularism
-4) Truth
-  - Ignorance
-  - Justice
-  - Post-Truth
-  - Science
-5) Resilience
-  - Education
-  - Meaning
-  - Meditation
+1. The Technological Challange
+  * Disillusionment
+  * Work
+  * Libertz
+  * Equalitiy
+2. The Polical Challange
+  * Community
+  * Civilisation
+  * Natrionalism
+  * Relegion
+  * Immigration
+3. Despair and Hope
+  * Terrorism
+  * War
+  * Humility
+  * God
+  * Secularism
+4. Truth
+  * Ignorance
+  * Justice
+  * Post-Truth
+  * Science
+5. Resilience
+  * Education
+  * Meaning
+  * Meditation
 
 ## Summary
+
+- Describes influence of technology onto mandkind
+- Critiziing variaty of religions, pointing out flaws and arguments about the idea and impact of relegious constructus
 
 ## Opinion
 
